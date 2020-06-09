@@ -1,2 +1,2 @@
 # Spring Boot Full CRUD
- Spring Boot with CRUD, manytomany, manytoone adn onetoone relationship
+ Spring Boot with CRUD, manytomany, manytoone and onetoone relationship
